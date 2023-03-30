@@ -1,1 +1,1 @@
-Hello, word!
+puts 'Hello, word!
